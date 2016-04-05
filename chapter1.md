@@ -8,10 +8,10 @@ attachments :
 ## Deflate Gate
 
 *** =video_link
-//player.vimeo.com/video/154783078
+https://youtu.be/uWlX05uSLYg
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1
-# A really bad movie
+ A really bad movie
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
