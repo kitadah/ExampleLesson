@@ -1,28 +1,28 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : One Sample T-test for the Mean
+description : A One Sample T-test Example
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:VideoExercise lang:r xp:50 skills:1
 ## Deflate Gate
 
-#*** =video_link
-#//player.vimeo.com/video/154783078
+*** =video_link
+//player.vimeo.com/video/154783078
 
-#--- type:MultipleChoiceExercise lang:r xp:50 skills:1
-## A really bad movie
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1
+# A really bad movie
 
-#Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
+Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
-#*** =instructions
-#- Adventure
-#- Action
-#- Animation
-#- Comedy
+*** =instructions
+- Adventure
+- Action
+- Animation
+- Comedy
 
-#*** =hint
-#Have a look at the plot. Which color does the point with the lowest rating have?
+*** =hint
+Have a look at the plot. Which color does the point with the lowest rating have?
 
 *** =pre_exercise_code
 ```{r}
