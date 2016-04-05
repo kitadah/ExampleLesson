@@ -8,7 +8,7 @@ attachments :
 ## Deflate Gate
 
 *** =video_link
-https://www.youtube.com/embed/uWlX05uSLYg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWlX05uSLYg" frameborder="0" allowfullscreen></iframe>
 
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1
