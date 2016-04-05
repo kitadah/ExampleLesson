@@ -8,7 +8,8 @@ attachments :
 ## Deflate Gate
 
 *** =video_link
-https://youtu.be/uWlX05uSLYg
+https://www.youtube.com/embed/uWlX05uSLYg
+
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1
  A really bad movie
